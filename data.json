@@ -1,0 +1,20 @@
+{
+    "1368386156558811236": {
+        "allowed_roles": [],
+        "logs_channel": null,
+        "work_logs_channel": null,
+        "works": {
+            "1319750481966272562": {
+                "count": 5,
+                "last_channel": 1368433760558911528
+            }
+        },
+        "channels": {
+            "1368433760558911528": {
+                "points": 1,
+                "owner_id": 1319750481966272562,
+                "active_work": null
+            }
+        }
+    }
+}
